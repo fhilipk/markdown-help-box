@@ -1,0 +1,22 @@
+* {
+	font: sans-serif;
+}
+
+table {
+	width: 350px;
+	border: 2px solid gray;
+	padding: 0px 0px 10px 2px;
+}
+
+td:first-child { 
+  font-weight: bold; 
+}
+
+td {
+	/*padding: 10px 15px 10px 0px;*/
+	/*border-spacing: 10px*/
+}
+
+img {
+	width:100px;
+}
